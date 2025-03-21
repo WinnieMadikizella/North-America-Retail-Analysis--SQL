@@ -182,19 +182,19 @@ Furnishings and Tables respectively */
 
 ## Insights & Recommendations 
 ## Key Insights:
-### Delivery Performance:
+### 1. Delivery Performance:
 - Product Subcategories: Tables have the longest average delivery time (36 days), followed by Furnishings (34 days), while Chairs and Bookcases both average 32 days.
 - Customer Segments: Corporate customers experience the longest delivery times (35 days), followed by Consumers (34 days), with the Home Office having the fastest deliveries (31 days).
 - Delivery Extremes: There's a huge variance in delivery times:
    - Some products (primarily bookcases) are delivered instantly (0 days).
    - Several products take 214 days to deliver (over 7 months).
  
-### Profitability:
+### 2. Profitability:
 - Product Profitability: Chairs are the most profitable subcategory, generating $36,471.10 in profit.
 - Segment Profitability: The Consumer segment drives the highest profit at $35,427.03.
 - Customer Value: The top five customers (Laura Armstrong, Joe Elijah, Seth Vernon, Quincy Jones, and Maria Etezadi) each generate over $800 in profit, with the top customer contributing $1,156.17.
 
-### Product Portfolio:
+### 3. Product Portfolio:
 - Product Distribution: Furnishings have the largest number of products (186), followed by Chairs (87), Bookcases (48), and Tables (34).
 
 ## Recommendations:
